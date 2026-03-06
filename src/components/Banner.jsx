@@ -40,7 +40,7 @@ const Banner = ({ inProgressCount, resolvedCount }) => {
             <p className="text-5xl font-bold text-green-300">{resolvedCount}</p>
             <p className="text-purple-200 text-sm mt-2">Tickets completed</p>
           </div>
-          todau
+          {/* todau */}
         </div>
       </div>
     </div>
